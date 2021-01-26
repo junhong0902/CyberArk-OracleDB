@@ -1,6 +1,6 @@
 # For both DSN and DSNless
 
-### Install Instant Client version 12 (x86 32bit)
+## Install Instant Client version 12 (x86 32bit)
 ```
 https://www.oracle.com/sg/database/technologies/instant-client/microsoft-windows-32-downloads.html#license-lightbox
 
@@ -21,3 +21,15 @@ Add path to system env.
 Make sure the Driver parameter is correspond to the driver in ODBC setting.
 ```
 ![alt text](./pic/odbc.jpg)
+
+![alt text](./pic/account.jpg)
+
+
+## DSN
+![alt text](./pic/account-DSN.jpg)
+```
+Make sure the Driver parameter is correspond to the driver in ODBC setting.
+```
+
+
+
