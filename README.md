@@ -15,7 +15,7 @@ Add path to system env.
 ```
 ![alt text](./pic/system_env.jpg)
 
-### DSNless
+## DSNless
 ![alt text](./pic/platform.jpg)
 ```
 Make sure the Driver parameter is correspond to the driver in ODBC setting.
