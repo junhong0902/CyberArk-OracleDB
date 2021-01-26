@@ -31,5 +31,11 @@ Make sure the Driver parameter is correspond to the driver in ODBC setting.
 Make sure the Driver parameter is correspond to the driver in ODBC setting.
 ```
 
+# SQLPLUS PSM Connection
+```
+Target Settings:
+ClientApp: "C:\oracle\instantclient\sqlplus.exe" "{UserName}/{Password}@{Address}[:{Port}][/{Database}] [{ConnectAs}]"
+```
+![alt text](./pic/SQLPLUS.jpg)
 
 
